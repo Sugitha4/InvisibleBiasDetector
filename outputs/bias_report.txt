@@ -1,0 +1,8 @@
+=== INVISIBLE BIAS AUDIT REPORT ===
+
+r1.txt | Shortlisted | Bias Detected: 100.0%
+r2.txt | Rejected | Bias Detected: 100.0%
+
+--------------------------------
+Overall AI Bias Percentage: 100.0%
+Shortlisted Candidates Bias Percentage: 100.0%
